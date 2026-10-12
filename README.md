@@ -6,7 +6,7 @@ Quebra-cabeça para adultos com 22 destinos pelo mundo. Roda no navegador do cel
 
 - 22 imagens: Rio de Janeiro, Paris, Londres, Veneza, Santorini, Japão, Machu Picchu, Egito, Grand Canyon, São Francisco, Amsterdã, Lisboa, Edimburgo, Havana, Dubai e Islândia.
 - 7 tamanhos: 24, 60, 144, 220, 336, 510 e 1.008 peças.
-- Mesa com zoom (dois dedos, roda do mouse ou botões) e bandeja de peças com filtros de bordas e miolo.
+- Mesa com zoom (dois dedos, roda do mouse ou botões), com as peças espalhadas em volta da moldura: arraste cada uma até o lugar certo ou deixe-a onde quiser na mesa.
 - Opção de peças viradas (toque para girar) e de imagem de fundo na mesa.
 - Dica, cronômetro, melhor tempo por destino e jogo salvo para continuar depois.
 
